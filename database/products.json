@@ -1,0 +1,77 @@
+{
+    "products":[
+        {
+            "id":1,
+            "heartIcon":"https://i.ibb.co/4grp1rB/icons8-heart-24.png",
+            "image":"https://i.ibb.co/CsD9WnS/oneplus-nord.png",
+            "brand":"OnePlus Nord",
+            "price":"Rs. 30000",
+            "camera":"13 MP | Ram: 6GB",
+            "storage":"128GB"
+        },
+        {
+            "id":2,
+            "heartIcon":"https://i.ibb.co/4grp1rB/icons8-heart-24.png",
+            "image":"https://i.ibb.co/9srC7L2/oneplus.png",
+            "brand":"OnePlus",
+            "price":"Rs. 42000",
+            "camera": "48 MP | Ram: 6GB",
+            "storage":"256GB"
+        },
+        {
+            "id":3,
+            "heartIcon":"https://i.ibb.co/4grp1rB/icons8-heart-24.png",
+            "image":"https://i.ibb.co/2S39wmH/nokia.png",
+            "brand":"Nokia C01",
+            "price":"Rs. 24000",
+            "camera":"20 MP | Ram: 6GB",
+            "storage":"128GB"
+        },
+        {
+            "id":4,
+            "heartIcon":"https://i.ibb.co/4grp1rB/icons8-heart-24.png",
+            "image":"https://i.ibb.co/LtLnqz1/motorola.png",
+            "brand":"Motorola E40",
+            "price":"Rs. 14000",
+            "camera":"13 MP | Ram: 4GB",
+            "storage":"64GB"
+        },
+        {
+            "id":5,
+            "heartIcon":"https://i.ibb.co/4grp1rB/icons8-heart-24.png",
+            "image":"https://i.ibb.co/ZYsWZVY/redmi-note9.png",
+            "brand":"Redmi note 9 pro",
+            "price":"Rs. 18000",
+            "camera":"48 MP | Ram: 4GB",
+            "storage":"64GB"
+        },
+        {
+            "id":6,
+            "heartIcon":"https://i.ibb.co/4grp1rB/icons8-heart-24.png",
+            "image":"https://i.ibb.co/2htHgjZ/iphone-13.png",
+            "brand":"iPhone 13",
+            "price":"Rs. 80000",
+            "camera":"12 MP | Ram: 6GB",
+            "storage":"128GB"
+        },
+        {
+            "id":7,
+            "heartIcon":"https://i.ibb.co/4grp1rB/icons8-heart-24.png",
+            "image":"https://i.ibb.co/YBRBvdJ/samsung-f22.png",
+            "brand":"Samsung F22",
+            "price":"Rs. 30000",
+            "camera":"13 MP | Ram: 6GB",
+            "storage":"128GB"
+        },
+        {
+            "id":8,
+            "heartIcon":"https://i.ibb.co/4grp1rB/icons8-heart-24.png",
+            "image":"https://i.ibb.co/9cVbWhJ/redmi-note10s.png",
+            "brand":"Redmi Note 10s",
+            "price":"Rs. 30000",
+            "camera":"64 MP | Ram: 8GB",
+            "storage":"256GB"
+        }
+
+    ]
+}
